@@ -37,6 +37,7 @@ header p {
 section {
    display: flex;
    justify-content: center;
+   width: 100vw;
 }
 section .container-description {
    width: 400px;
