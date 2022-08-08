@@ -4,7 +4,7 @@ Projeto RocketCoffee da Rocktseat
 
 <p align="center">RocktCoffee na Web:</p>
 <p align = "center">
-  <img src="https://cdn.discordapp.com/attachments/866782464009699348/1006209796426440895/rocketcoffee.png" width="700px" height="370px">
+  <img src="https://cdn.discordapp.com/attachments/866782464009699348/1006209796426440895/rocketcoffee.png" height="370px">
 </p>
 
 <p align="center">RocktCoffee na Mobile:</p>
