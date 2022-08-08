@@ -2,8 +2,7 @@
 
 Projeto RocketCoffee da Rocktseat
 
-
-<p align = "center">
-  <img src="![rocketcoffee](https://user-images.githubusercontent.com/97231470/183439042-773327c3-a571-4e09-a581-323b7f69b3c2.png)
-" width="1200px" height="800px" title="hover text">
+<p align = "left">
+  <img src="https://cdn.discordapp.com/attachments/866782464009699348/1006209796426440895/rocketcoffee.png" width="700px" height="370px">
+  <img src="https://media.discordapp.net/attachments/866782464009699348/1006209796971712542/rocketcoffeemobile.png?width=311&height=473" height="370px">
 </p>
